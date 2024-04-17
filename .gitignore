@@ -1,0 +1,17 @@
+client/node_modules
+server/venv
+server/push.sh
+server.sh
+rc.py
+data
+letsencrypt
+
+
+
+*.env
+
+__pycache__
+*.pyc
+*.pem
+
+env
